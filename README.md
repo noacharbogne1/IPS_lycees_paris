@@ -8,7 +8,7 @@ Depuis 2023, le Ministère de l’Education nationale publie les Indices de Posi
 
 Les IPS des lycées publics et privés sous contrats de Paris, Seine-Saint-Denis, Hauts-de-Seine, et du Val-de-Marne révèlent plusieurs fractures territoriales. 
 
-/assets/carte.png
+/IPS_lycees_paris/carte.png
 
 La répartition territoriale des lycées selon leur IPS démontre une fracture territoriale toujours aussi marquée entre la capitale et la petite couronne, et tout particulièrement avec la Seine-Saint-Denis : Paris compte 35 lycées avec des IPS très élevés contre seulement 1 dans le 93. 
 
