@@ -32,7 +32,7 @@ Julien Grenet, économiste, directeur de recherche au CNRS et directeur adjoint 
 
 ### Aucun lycée sous contrat de Paris et sa petite couronne n’a moins de 95% de réussite au baccalauréat
 
-Immanquablement, l’IPS déterminant les conditions favorables à l’apprentissage des élèves, les résultats aux examens tel que le baccalauréat en sont altérés. Si l’on croise ces deux données lors de l’année scolaire 2021-2022, on remarque que plus l’IPS est élevé, meilleur est le taux de réussite au bac. En d’autres termes, plus les conditions socio-économiques des parents de l’élève sont favorables, plus ce dernier a des chances de réussir son examen. 
+Immanquablement, l’IPS déterminant les conditions favorables à l’apprentissage des élèves, les résultats aux examens tel que le baccalauréat en sont altérés. Si l’on croise ces deux données lors de l’année scolaire 2021-2022, on remarque que plus l’IPS est élevé, meilleur est le taux de réussite au bac. En d’autres termes, plus les conditions socio-économiques des parents de l’élève sont favorables, plus ce dernier a des chances de réussir son examen.
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/17519045"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
