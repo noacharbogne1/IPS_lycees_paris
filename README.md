@@ -15,3 +15,5 @@ La répartition territoriale des lycées selon leur IPS démontre une fracture t
 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/17343785"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/17519045"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
