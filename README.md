@@ -4,18 +4,42 @@ _A l’aide de l’Indice de position sociale des lycées publics et privés de 
 
 **Par Kanumera Creiche, Elisa Cléac’h, Noa Charbogne**
 
-Depuis 2023, le Ministère de l’Education nationale publie les Indices de Position Sociale des lycées de France. L’Indice de position sociale (IPS) est un outil statistique qui permet d’indiquer la composition sociale des établissements. A partir des catégories socioprofessionnelles des parents d’élèves, mais aussi de leurs diplômes et autres critères variés, un score est attribué à chaque établissement. Compris entre 45 à 185, plus l’IPS est élevé et plus les élèves sont issus de conditions sociales favorables à l’apprentissage et à la réussite. 
+Les revendications grondent, mais les réponses gardent le silence. Après bientôt deux mois de mobilisation, les représentants syndicaux des enseignants de Seine-Saint-Denis ont été reçus ce lundi par la Ministre de l’Education nationale, Nicole Belloubet. Ils déplorent le manque de moyens, et réclament un plan d’urgence, mais une fois encore, aucune mesure n’a été annoncée.
 
-Les IPS des lycées publics et privés sous contrats de Paris, Seine-Saint-Denis, Hauts-de-Seine, et du Val-de-Marne révèlent plusieurs fractures territoriales. 
+Ces disparités socio-scolaires sont étayées depuis 2023 par l’Indice de Position Sociale (IPS) des lycées. L’outil statistique, compris entre 45 et 185, permet d’évaluer les conditions sociales favorables à l’apprentissage des élèves, à partir des catégories socioprofessionnelles (CSP) de leurs parents, et autres critères sociaux variables. Plus le score est élevé, meilleures sont les chances de réussite.
 
 ![Carte des lycées de Paris et sa petite couronne selon leur IPS](https://github.com/noacharbogne1/IPS_lycees_paris/assets/167019610/a3f81f87-7618-4cc6-8fc3-d2a5d3b7c584)
 
-La répartition territoriale des lycées selon leur IPS démontre une fracture territoriale toujours aussi marquée entre la capitale et la petite couronne, et tout particulièrement avec la Seine-Saint-Denis : Paris compte 35 lycées avec des IPS très élevés contre seulement 1 dans le 93. 
+Les IPS des lycées publics et privés sous contrats de Paris, des Hauts-de-Seine, du Val-de-Marne, et particulièrement de Seine-Saint-Denis révèlent plusieurs fractures territoriales. Paris compte 35 lycées avec des IPS très élevés contre seulement 1 dans le 93. Ainsi, dans ce département, 54,7 % des lycées présentent un IPS bas ou très bas, contre 29,4 % à Paris.
 
+### Des lycées contrastés d’une rue à l’autre
+
+La distribution des lycées à la composition sociale très élitiste est fortement concentrée dans la capitale. On compte 26,6 % de lycées à l’IPS élevé ou très élevé dans le Val-de-Marne, alors qu’ils représentent 50 % des lycées parisiens. 
+
+Ces variations diffèrent parfois d’une rue à l’autre, au sein d’une même commune. À Vanves, dans les Hauts-de-Seine, seulement 800 mètres séparent le lycée professionnel public Louis Dardennes et le lycée polyvalent public Michelet. Pourtant, le premier présente un IPS de 88 contre un IPS de 132 pour le second. À Paris, il suffit de changer d’arrondissement. Le lycée polyvalent public Jean Lurçat, situé dans le 13e arrondissement, affiche un IPS 88,6. À une vingtaine de minutes à pied, dans le touristique 5e arrondissement, le lycée privé Sévigné, affiche un IPS de 143, un score parmi les plus élevés à Paris. 
+
+### Les lycées privés, grands gagnants de l’IPS
+
+Les IPS indiquent aussi une véritable fracture entre les lycées privés sous contrat et les lycées publics. Le manque de mixité sociale dans les établissements payants est flagrant. Si l’on prend seulement en compte les IPS des établissements parisiens et de la petite couronne dit “très élevés” on y dénombre 37 lycées privés dans cette catégorie contre 13 établissements publics. Dans le cas des IPS dit “très bas”, on y compte 76 lycées publics et seulement 1 privé. Pierre Merle, professeur de sociologie à l’Institut national supérieur du professorat constate, “on remarque un embourgeoisement très net des collèges et lycées privés.” 
+
+<div class="flourish-embed flourish-sankey" data-src="visualisation/17409766"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Sans surprise, la répartition des lycées privés sur le territoire n’est pas équitable entre Paris et sa petite couronne. 40% des lycées privés sous contrat de Paris, des Hauts-de-Seine, du Val-de-Marne et de Seine-Saint-Denis se situent dans la capitale. Les 60% restants sont répartis sur les trois autres départements. Les Hauts-de-Seine ne compte que 23% d’établissements privés sur sa collectivité. 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/17343785"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Julien Grenet, économiste, directeur de recherche au CNRS et directeur adjoint à l’Institut des politiques publiques déplore :  “Rien n’est fait pour réduire les écarts sociaux entre l’enseignement public et privé. Au printemps 2022, Pap Ndiaye avait annoncé un plan mixité. Mais le projet a été tellement torpillé qu’il n’en reste rien. Il prévoyait notamment de contraindre l’enseignement privé sous contrat à renforcer la mixité sociale en son sein, sans succès”. L’ancien ministre de l’Education nationale était parvenu à un accord avec le Secrétariat Général de l’Enseignement catholique, qui s’était engagé à doubler le taux d’élèves boursiers en cinq ans dans les établissements où les familles bénéficient d’aides sociales. Mais la mesure était non-contraignante. 
+
+### Aucun lycée sous contrat de Paris et sa petite couronne n’a moins de 95% de réussite au baccalauréat
+
+Immanquablement, l’IPS déterminant les conditions favorables à l’apprentissage des élèves, les résultats aux examens tel que le baccalauréat en sont altérés. Si l’on croise ces deux données lors de l’année scolaire 2021-2022, on remarque que plus l’IPS est élevé, meilleur est le taux de réussite au bac. En d’autres termes, plus les conditions socio-économiques des parents de l’élève sont favorables, plus ce dernier a des chances de réussir son examen. 
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/17519045"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+C’est là le reflet de l’accumulation des inégalités socio-scolaires, les résultats au baccalauréat conditionnant ensuite les études supérieures, puis l’entrée dans le monde professionnel. 
+
+Plus encore, le taux de réussite au bac varie en fonction du secteur du lycée, privé sous contrat ou public. En violet sur le graphique, les élèves ayant étudié dans un lycée privé, et donc payant, cumulent IPS élevé et taux de réussite quasi parfait. Aucun lycée privé sous contrat de Paris et sa petite couronne n’a moins de 95% de réussite au baccalauréat. L’IPS est donc la marque, non seulement d’inégalités territoriales entre les lycées, mais aussi d’inégalités socio-économiques, déterminant le parcours scolaire des élèves. Ces relations quasi systémiques ne devraient pas s'arranger prochainement : selon un rapport en 2023, la Cour des comptes déplore le recul de la mixité sociale et le “manque de contrôle financier et pédagogique de l’Etat” sur l’enseignement privé sous contrat. 
+
 
 ## Quelle méthodologie ? 
 
