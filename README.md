@@ -20,7 +20,7 @@ Pour autant, Paris est aussi le département où les valeurs sont les plus dispe
 
 ### Les lycées privés, grands gagnants de l’IPS
 
-Les IPS indiquent aussi une véritable fracture entre les lycées privés sous contrat et les lycées publics. Le manque de mixité sociale dans les établissements payants est flagrant. Si l’on prend seulement en compte les IPS des établissements parisiens et de la petite couronne dit “très élevés” on y dénombre 37 lycées privés dans cette catégorie contre 13 établissements publics. Dans le cas des IPS dit “très bas”, on y compte 76 lycées publics et seulement 1 privé. Pierre Merle, professeur de sociologie à l’Institut national supérieur du professorat constate, “on remarque un embourgeoisement très net des collèges et lycées privés.” 
+Les IPS indiquent aussi une véritable fracture entre les lycées privés sous contrat et les lycées publics. Le manque de mixité sociale dans les établissements payants est flagrant. Si l’on prend seulement en compte les IPS des établissements parisiens et de la petite couronne “très élevés” on y dénombre 37 lycées privés dans cette catégorie contre 13 établissements publics. Dans le cas des IPS “très bas”, on y compte 76 lycées publics et seulement 1 privé. Pierre Merle, professeur de sociologie à l’Institut national supérieur du professorat constate, “on remarque un embourgeoisement très net des collèges et lycées privés.” 
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/17409766"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
