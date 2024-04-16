@@ -8,7 +8,8 @@ Les revendications grondent, mais les réponses gardent le silence. Après bient
 
 Ces disparités socio-scolaires sont étayées depuis 2023 par l’Indice de Position Sociale (IPS) des lycées. L’outil statistique, compris entre 45 et 185, permet d’évaluer les conditions sociales favorables à l’apprentissage des élèves, à partir des catégories socioprofessionnelles (CSP) de leurs parents, et autres critères sociaux variables. Plus le score est élevé, meilleures sont les chances de réussite.
 
-![Carte des lycées de Paris et sa petite couronne selon leur IPS](https://github.com/noacharbogne1/IPS_lycees_paris/assets/167019610/378bdc4e-f7df-4f67-92f3-821369903aab)
+![Carte des lycées selon leur IPS](https://github.com/noacharbogne1/IPS_lycees_paris/assets/167019610/98cf0c85-15e3-44e6-8bbf-c45fd2f16cd1)
+
 
 Les IPS des lycées publics et privés sous contrats de Paris, des Hauts-de-Seine, du Val-de-Marne, et particulièrement de Seine-Saint-Denis révèlent plusieurs fractures territoriales. En moyenne, la capitale possède un IPS d’environ 118, contre 96 en Seine-Saint-Denis. Ainsi, dans ce département, 54,7 % des lycées présentent un IPS bas ou très bas (voir méthodologie), contre 29,4 % à Paris.
 
