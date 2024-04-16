@@ -16,3 +16,7 @@ La répartition territoriale des lycées selon leur IPS démontre une fracture t
 <div class="flourish-embed flourish-scatter" data-src="visualisation/17343785"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/17519045"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Quelle méthodologie ? 
+
+Pour déterminer les catégories “très bas”, “bas”... pour qualifier l’IPS de chaque établissement, nous avons réalisé un calcul par quintiles, avec comme borne inférieure le lycée à l’IPS le plus bas de Paris et sa petite couronne et le lycée à l’IPS le plus haut. Ce calcul est donc propre à la situation de la zone que nous avons étudiée. Un IPS “très bas” à Paris et sa petite couronne ne voudrait pas forcément dire la même chose si l’on se situait ailleurs en France. 
